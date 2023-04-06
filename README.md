@@ -25,6 +25,19 @@ I work with a variety of tools and technologies that I used during my career. Ex
 ![Minitab](https://img.shields.io/badge/-Minitab-0076A8?logo=minitab&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-2C3E50?logo=ros&logoColor=white)
 
+### Python Dependencies
+
+Please find here some of the Python libraries and frameworks that I use in my data analysis and machine learning projects:
+
+<p align="center">
+    <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="150" height="50">
+    <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="NumPy" width="150" height="50">
+    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="150" height="50">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="150" height="50">
+    <img src="https://scikit-learn.org/stable/_images/scikit-learn-logo-notext.png" alt="scikit-learn" width="150" height="50">
+    <img src="https://www.tensorflow.org/images/tf_logo_social.png" alt="TensorFlow" width="150" height="50">
+</p>
+
 ## Contact Me 📞
 If you would like to connect, you can find me on [LinkedIn](https://www.linkedin.com/in/beauchamrong-tan/).
 You can contact me by email at tan.beauchamrong@gmail.com
